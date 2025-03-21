@@ -1,0 +1,14 @@
+Todo List:
+Practical:  Katharina will do this 
+Create a working cpp repo with makefiles and everything       
+    -copy from somewhere i guess
+    -Create a graph class  (i think i have one)
+          - advance class for coordinates
+
+Create a parser for json files
+
+Use given tool for visualizing in between
+
+Theoretical:
+Get theoretic approach for solving problem
+
